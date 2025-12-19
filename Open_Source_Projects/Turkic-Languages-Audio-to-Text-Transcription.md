@@ -173,11 +173,13 @@ python -c "import whisper; print('Whisper installed successfully!')"
 ```bash
 python -m venv turkic-env
 ```
+
 or
 
 ```bash
 python3 -m venv turkic-env
 ```
+
 ```bash
 cd Turkic-Languages-Audio-to-Text-Transcription
 source turkic-env/Scripts/activate
@@ -503,10 +505,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Additional Resources
 
-- [Transcription Guide](docs/TRANSCRIPTION_GUIDE.md) - Detailed usage instructions
-- [Corrector Documentation](docs/CORRECTOR_GUIDE.md) - How the corrector works
-- [Training Guide](docs/TRAINING_GUIDE.md) - Train your own classifier
-- [Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues and solutions
+- [Toolkit](project/docs/TOOLKIT.md) - Detailed usage instructions
 
 ### Research & References
 
@@ -538,7 +537,7 @@ Special thanks to all researchers working on low-resource language technology.
 
 ## 📧 Contact
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/Turkic-Languages-Audio-to-Text-Transcription/issues)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/sp-squared/Turkic-Languages-Audio-to-Text-Transcription/issues)
 - **Discussions:** [Ask questions or share ideas](https://github.com/sp-squared/Turkic-Languages-Audio-to-Text-Transcription/discussions)
 - **Email:** [colin.morris.r@gmail.com]
 
@@ -546,7 +545,7 @@ Special thanks to all researchers working on low-resource language technology.
 
 If you find this project useful, please consider giving it a star! It helps others discover this work.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sp-squared/Turkic-Language-Audio-to-Text-Transcription&type=Date)](https://star-history.com/sp-squared/Turkic-Language-Audio-to-Text-Transcription&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sp-squared/Turkic-Languages-Audio-to-Text-Transcription&type=date&legend=top-left)](https://www.star-history.com/#sp-squared/Turkic-Languages-Audio-to-Text-Transcription&type=date&legend=top-left)
 
 ## 📊 Project Status
 
@@ -598,6 +597,12 @@ If you use this work in your research, please cite:
 
 ---
 
-**Made with ❤️ for the Turkic language community and open science**
+<div align="center">
+
+**Made with ❤️ for the Turkic language community**
 
 **"This is the frontier."** 🚀
+
+[⬆ Back to Top](#turkic-languages-audio-to-text-transcription)
+
+</div>
