@@ -172,8 +172,18 @@ python -c "import whisper; print('Whisper installed successfully!')"
 
 ```bash
 python -m venv turkic-env
+```
+or
+
+```bash
+python3 -m venv turkic-env
+```
+```bash
 cd Turkic-Languages-Audio-to-Text-Transcription
 source turkic-env/Scripts/activate
+```
+
+```bash
 deactivate
 ```
 
@@ -536,7 +546,7 @@ Special thanks to all researchers working on low-resource language technology.
 
 If you find this project useful, please consider giving it a star! It helps others discover this work.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/Turkic-Languages-Audio-to-Text-Transcription&type=Date)](https://star-history.com/sp-squared/Turkic-Language-Audio-to-Text-Transcription&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sp-squared/Turkic-Language-Audio-to-Text-Transcription&type=Date)](https://star-history.com/sp-squared/Turkic-Language-Audio-to-Text-Transcription&Date)
 
 ## 📊 Project Status
 
