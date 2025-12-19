@@ -1,2 +1,2 @@
-# gis_portfolio
-Colin's GIS Portfolio
+# portfolio
+Colin's Portfolio
