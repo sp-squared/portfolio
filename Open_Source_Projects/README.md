@@ -114,7 +114,7 @@ python whisper_transcribe_and_correct.py ../audio/kyrgyz_audio.m4a --language ky
 ## 📂 Project Structure
 
 ```
-Turkic-Language-Audio-to-Text-Transcription/
+Turkic-Languages-Audio-to-Text-Transcription/
 ├── audio/                          # Input audio files (.m4a, .wav, .mp3)
 ├── scripts/                        # Main executable scripts
 │   ├── whisper_transcribe_and_correct.py    # Main transcription pipeline
