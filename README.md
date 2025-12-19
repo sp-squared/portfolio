@@ -2,7 +2,6 @@
 
 Colin's Portfolio
 
-# Overview
 # Projects
 ## Turkic Languages Audio-to-Text Transcription
 [Turkic-Languages-Audio-to-Text-Transcription](https://github.com/sp-squared/Turkic-Languages-Audio-to-Text-Transcription)
