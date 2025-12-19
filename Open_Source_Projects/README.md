@@ -4,7 +4,7 @@
 [![Open Science](https://img.shields.io/badge/Open-Science-blue.svg)](https://en.wikipedia.org/wiki/Open_science)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-Open-source Automatic Speech Recognition (ASR) pipeline for Bashkir, Kazakh, and Kyrgyz languages with deterministic orthography correction.
+Open-source Automatic Speech Recognition (ASR) pipeline for Bashkir (Bashkort), Kazakh, and Kyrgyz languages with deterministic orthography correction.
 
 ## 🌟 Key Features
 
